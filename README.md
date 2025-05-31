@@ -43,50 +43,6 @@ Modern **React.js, Redux Toolkit ve TailwindCSS** teknolojileriyle geliştirilmi
 
 ---
 
-## 📁 Proje Yapısı
-
-```
-├── public/                 # Statik dosyalar
-│   ├── favicon.ico
-│   ├── index.html
-│   └── manifest.json
-├── src/
-│   ├── components/         # React bileşenleri
-│   │   ├── cart/          # Sepet bileşenleri
-│   │   ├── detail/        # Ürün detay bileşenleri
-│   │   ├── home/          # Anasayfa bileşenleri
-│   │   │   ├── Category.jsx
-│   │   │   ├── Product.jsx
-│   │   │   ├── Products.jsx
-│   │   │   ├── SliderComp.jsx
-│   │   │   └── Sorting.jsx
-│   │   ├── navbar/        # Navigasyon bileşenleri
-│   │   │   ├── navbarItem/
-│   │   │   └── Navbar.jsx
-│   │   └── Loading.jsx
-│   ├── containers/        # Layout bileşenleri
-│   │   └── PageContainer.jsx
-│   ├── pages/             # Sayfa bileşenleri
-│   │   ├── Cart.jsx
-│   │   ├── Detail.jsx
-│   │   └── Home.jsx
-│   ├── redux/             # State yönetimi
-│   │   ├── cartSlice.js
-│   │   ├── categorySlice.js
-│   │   ├── productSlice.js
-│   │   └── store.js
-│   ├── utils/             # Yardımcı fonksiyonlar
-│   │   └── status.js
-│   ├── App.js             # Ana uygulama
-│   ├── index.js           # React giriş noktası
-│   └── index.css          # Global stiller
-├── project-images/        # Proje ekran görüntüleri
-├── tailwind.config.js     # TailwindCSS yapılandırması
-└── package.json
-```
-
----
-
 ## 📸 Proje Ekran Görüntüleri
 
 ### Anasayfa
@@ -174,6 +130,50 @@ Modern **React.js, Redux Toolkit ve TailwindCSS** teknolojileriyle geliştirilmi
     </td>
   </tr>
 </table>
+
+---
+
+## 📁 Proje Yapısı
+
+```
+├── public/                 # Statik dosyalar
+│   ├── favicon.ico
+│   ├── index.html
+│   └── manifest.json
+├── src/
+│   ├── components/         # React bileşenleri
+│   │   ├── cart/          # Sepet bileşenleri
+│   │   ├── detail/        # Ürün detay bileşenleri
+│   │   ├── home/          # Anasayfa bileşenleri
+│   │   │   ├── Category.jsx
+│   │   │   ├── Product.jsx
+│   │   │   ├── Products.jsx
+│   │   │   ├── SliderComp.jsx
+│   │   │   └── Sorting.jsx
+│   │   ├── navbar/        # Navigasyon bileşenleri
+│   │   │   ├── navbarItem/
+│   │   │   └── Navbar.jsx
+│   │   └── Loading.jsx
+│   ├── containers/        # Layout bileşenleri
+│   │   └── PageContainer.jsx
+│   ├── pages/             # Sayfa bileşenleri
+│   │   ├── Cart.jsx
+│   │   ├── Detail.jsx
+│   │   └── Home.jsx
+│   ├── redux/             # State yönetimi
+│   │   ├── cartSlice.js
+│   │   ├── categorySlice.js
+│   │   ├── productSlice.js
+│   │   └── store.js
+│   ├── utils/             # Yardımcı fonksiyonlar
+│   │   └── status.js
+│   ├── App.js             # Ana uygulama
+│   ├── index.js           # React giriş noktası
+│   └── index.css          # Global stiller
+├── project-images/        # Proje ekran görüntüleri
+├── tailwind.config.js     # TailwindCSS yapılandırması
+└── package.json
+```
 
 ---
 
