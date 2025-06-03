@@ -49,12 +49,12 @@ Modern **React.js, Redux Toolkit ve TailwindCSS** teknolojileriyle geliştirilmi
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/ciftciyakup/reactjs_e-commerce_app/blob/main/project-images/home.png" alt="Anasayfa" height="400"/>
+      <img src="https://github.com/ciftciyakup/reactjs_e-commerce_app/blob/main/project-images/home.png" alt="Anasayfa" height="340"/>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/ciftciyakup/reactjs_e-commerce_app/blob/main/project-images/home-2.png" alt="Anasayfa 2" height="400"/>
+      <img src="https://github.com/ciftciyakup/reactjs_e-commerce_app/blob/main/project-images/home-2.png" alt="Anasayfa 2" height="340"/>
     </td>
   </tr>
 </table>
@@ -63,25 +63,25 @@ Modern **React.js, Redux Toolkit ve TailwindCSS** teknolojileriyle geliştirilmi
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/ciftciyakup/reactjs_e-commerce_app/blob/main/project-images/home-electronics.png" alt="Elektronik Kategori" height="400"/>
+      <img src="https://github.com/ciftciyakup/reactjs_e-commerce_app/blob/main/project-images/home-electronics.png" alt="Elektronik Kategori" height="340"/>
       <br><em>Elektronik</em>
     </td>
   <tr>
   </tr>
     <td align="center">
-      <img src="https://github.com/ciftciyakup/reactjs_e-commerce_app/blob/main/project-images/home-jewelery.png" alt="Mücevher Kategori" height="400"/>
+      <img src="https://github.com/ciftciyakup/reactjs_e-commerce_app/blob/main/project-images/home-jewelery.png" alt="Mücevher Kategori" height="340"/>
       <br><em>Mücevher</em>
     </td>
   </tr>
   </tr>
     <td align="center">
-      <img src="https://github.com/ciftciyakup/reactjs_e-commerce_app/blob/main/project-images/home-mensclothing.png" alt="Erkek Giyim Kategori" height="400"/>
+      <img src="https://github.com/ciftciyakup/reactjs_e-commerce_app/blob/main/project-images/home-mensclothing.png" alt="Erkek Giyim Kategori" height="340"/>
       <br><em>Erkek Giyim</em>
     </td>
   </tr>
   </tr>
     <td align="center">
-      <img src="https://github.com/ciftciyakup/reactjs_e-commerce_app/blob/main/project-images/home-womensclothing.png" alt="Kadın Giyim Kategori" height="400"/>
+      <img src="https://github.com/ciftciyakup/reactjs_e-commerce_app/blob/main/project-images/home-womensclothing.png" alt="Kadın Giyim Kategori" height="340"/>
       <br><em>Kadın Giyim</em>
     </td>
   </tr>
@@ -91,13 +91,13 @@ Modern **React.js, Redux Toolkit ve TailwindCSS** teknolojileriyle geliştirilmi
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/ciftciyakup/reactjs_e-commerce_app/blob/main/project-images/home-artan-sirala.png" alt="Artan Sıralama" height="400"/>
+      <img src="https://github.com/ciftciyakup/reactjs_e-commerce_app/blob/main/project-images/home-artan-sirala.png" alt="Artan Sıralama" height="340"/>
      <br><em>Artan</em>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/ciftciyakup/reactjs_e-commerce_app/blob/main/project-images/home-azalan-sirala.png" alt="Artan Sıralama" height="400"/>
+      <img src="https://github.com/ciftciyakup/reactjs_e-commerce_app/blob/main/project-images/home-azalan-sirala.png" alt="Artan Sıralama" height="340"/>
      <br><em>Azalan</em>
     </td>
   </tr>
@@ -107,17 +107,17 @@ Modern **React.js, Redux Toolkit ve TailwindCSS** teknolojileriyle geliştirilmi
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/ciftciyakup/reactjs_e-commerce_app/blob/main/project-images/product-1.png" alt="Ürün Detay" height="400"/>
+      <img src="https://github.com/ciftciyakup/reactjs_e-commerce_app/blob/main/project-images/product-1.png" alt="Ürün Detay" height="340"/>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/ciftciyakup/reactjs_e-commerce_app/blob/main/project-images/product-2.png" alt="Ürün Detay" height="400"/>
+      <img src="https://github.com/ciftciyakup/reactjs_e-commerce_app/blob/main/project-images/product-2.png" alt="Ürün Detay" height="340"/>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/ciftciyakup/reactjs_e-commerce_app/blob/main/project-images/product-3.png" alt="Ürün Detay" height="400"/>
+      <img src="https://github.com/ciftciyakup/reactjs_e-commerce_app/blob/main/project-images/product-3.png" alt="Ürün Detay" height="340"/>
     </td>
   </tr>
 </table>
@@ -126,7 +126,7 @@ Modern **React.js, Redux Toolkit ve TailwindCSS** teknolojileriyle geliştirilmi
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/ciftciyakup/reactjs_e-commerce_app/blob/main/project-images/sepet.png" alt="Alışveriş Sepeti" height="400"/>
+      <img src="https://github.com/ciftciyakup/reactjs_e-commerce_app/blob/main/project-images/sepet.png" alt="Alışveriş Sepeti" height="340"/>
     </td>
   </tr>
 </table>
